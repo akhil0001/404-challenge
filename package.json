@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "parcel serve ./src/index.html"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.0.0-beta.2",
+    "parcel": "^2.0.0-beta.2"
+  }
+}
